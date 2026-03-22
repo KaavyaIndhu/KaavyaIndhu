@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**KaavyaIndhu/KaavyaIndhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 [Your Role / Student / Developer]
+💻 Interested in: [Your domains — e.g., Web Dev, AI, Data Science]
+📍 Based in: [Location]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on: ...
+- 🌱 Currently learning: ...
+- 👯 Looking to collaborate on: ...
+- 💬 Ask me about: ...
+
+---
+
+## 🛠️ Tech Stack
+- Languages: 
+- Frameworks: 
+- Tools: 
+
+---
+
+## 📌 Featured Projects
+- [Project Name](link) – short description
+- [Project Name](link) – short description
+
+---
+
+## 📫 Contact Me
+- Email: 
+- LinkedIn: 
