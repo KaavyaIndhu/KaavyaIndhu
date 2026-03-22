@@ -65,5 +65,5 @@ I mainly focus on backend development, problem-solving, and applying AI-driven c
 ## 📫 Contact
 
 📧 [kaavyaindhu06@gmail.com](mailto:kaavyaindhu06@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/kaavyaindhu)
+💼 [LinkedIn/KaavyaIndhu](https://www.linkedin.com/in/kaavyaindhu)
 
